@@ -2,4 +2,4 @@
 .I'm currently learning Python and Vibe coding for creating accounting & finance-related apps
 .I'm looking for help with website development 
 .Ask me about accounting, finance, bookkeeping
-.How to reach me: catherine.zhai@hotmail.co.nz
+.How to reach me: booksuccess.nz@gmail.com
